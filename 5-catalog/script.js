@@ -61,3 +61,5 @@ resetBtn.addEventListener("click", () => {
   sortSelect.value = "default";
   render();
 });
+
+render();
